@@ -19,7 +19,7 @@ const dc_heros=["superman", "flash", "batman"]
 
 // console.log(Array.isArray("hitsh"))
 // console.log(Array.from("hitesh"));
-// console.log(Array.from({name: "hitesh"}));  //intervies
+// console.log(Array.from({name: "hitesh"}));  //interview
 
 let scroe1=100
 let score2=200
