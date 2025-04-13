@@ -1,8 +1,9 @@
 #  Projects related to DOM
 
 ## project link
-[Click here] (https://stackblitz.com/edit/dom-project-chaiaurcode-kbc3hjcd)
+[1. Click here] (https://stackblitz.com/edit/dom-project-chaiaurcode-kbc3hjcd)
 
+[2. Click here] (https://stackblitz.com/edit/dom-project-chaiaurcode?file=1-colorChanger%2Fchaiaurcode.js)
 # Soluction code
 
 ## oroject 1
