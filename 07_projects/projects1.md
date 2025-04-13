@@ -6,7 +6,7 @@
 [2. Click here] (https://stackblitz.com/edit/dom-project-chaiaurcode?file=1-colorChanger%2Fchaiaurcode.js)
 # Soluction code
 
-## oroject 1
+## poroject 1
 
 ```javascript
 console.log("Hello")
