@@ -60,3 +60,21 @@ form.addEventListener('submit', function (e) {
     results.innerHTML = `<span>${bmi}</span>`;
   }
 });
+
+```
+
+## project 3 soluction code
+
+```javascript
+
+const clock = document.getElementById('clock');
+//const clock=document.querySelector('#clock')
+
+setInterval(function () {
+  let date = new Date();
+  //console.log(date.toLocaleTimeString());
+  clock.innerHTML = date.toLocaleString();
+}, 1000);
+```
+
+
