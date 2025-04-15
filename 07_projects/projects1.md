@@ -77,10 +77,11 @@ setInterval(function () {
 }, 1000);
 ```
 
-## project 4 soluction code
 
-```javasript
 
+## project 4 soluction code 
+
+``` javascript
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
 
@@ -174,5 +175,5 @@ function newGame() {
   });
 }
 
-```
 
+```
