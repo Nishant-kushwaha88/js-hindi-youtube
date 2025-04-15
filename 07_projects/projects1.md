@@ -174,6 +174,4 @@ function newGame() {
     playGame = true;
   });
 }
-
-
 ```
